@@ -18,7 +18,7 @@
 
 <div class="city">
     <h2>London</h2>
-    <img src="C:\Users\Hp\IdeaProjects\Demo\img\london.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="img/london.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <p>London is the capital of England.</p>
     <p>It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
 </div>
