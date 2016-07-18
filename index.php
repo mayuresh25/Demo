@@ -32,7 +32,7 @@
 
 <div class="city">
     <h2>Tokyo</h2>
-    <img src="tokyo.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="tokyo.jpg" alt="Mountain View" style="width:200px;height:200px;">
     <p>Tokyo is the capital of Japan.</p>
     <p>It is the center of the Greater Tokyo Area, and the most populous metropolitan area in the world.</p>
 </div>
