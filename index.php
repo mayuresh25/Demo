@@ -18,14 +18,14 @@
 
 <div class="city">
     <h2>London</h2>
-    <img src="img/london.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="london.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <p>London is the capital of England.</p>
     <p>It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
 </div>
 
 <div class="city">
     <h2>Paris</h2>
-    <img src="img/paris.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="paris.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <p>Paris is the capital of France.</p>
     <p>The Paris area is one of the largest population centers in Europe, with more than 12 million inhabitants.</p>
 </div>
