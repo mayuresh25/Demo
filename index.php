@@ -32,7 +32,15 @@
         At different times of the day the Taj Mahal appears to be in a different colour. Some believe that these changing colours depict the changing moods of a woman. </p>
 </div>
 
-
+<div class="india">
+    <h2><font color="red"> 2.)Golden Temple(Amritsar,Punab)</font></h2>
+    <p>Most sacred place of worship for the Sikhs, located in Amritsar, Punjab.
+        Also called Harmandir Sahib or Court of the Lord.
+        The foundation of the Golden Temple was laid down by a Muslim saint Mian Mir.
+        It is mostly made out of marble but it is gold plated with real gold which covers most of the outside portion.
+        The water that surrounds the Golden Temple is known as the Amrit Sarovar (Pool of Nectar) and the water of the pool is said to have special properties.
+        The largest langar of all Gurudwaras is organized everyday at the Golden Temple where around 35,000 people a day are fed for free by temple volunteers.
+        The Golden temple has an in-house museum that has a large collection of articles related to Sikh history.</p></div>
 
 
 
