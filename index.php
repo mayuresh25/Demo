@@ -19,10 +19,10 @@
 
 <div class="india">
     <h2>Taj Mahal</h2>
-    <img src="img/taj-mahal.jpg" alt="Mountain View" style="width:100px;height:100px;">
-    <img src="img/taj-mahal2.jpg" alt="Mountain View" style="width:100px;height:100px;">
-    <img src="img/taj-mahal3.jpg" alt="Mountain View" style="width:100px;height:100px;">
-    <img src="img/taj-mahal4.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="taj-mahal.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="taj-mahal2.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="taj-mahal3.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="taj-mahal4.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <p>Taj Mahal tops the list of Seven Wonders of the World.The White marble mausoleum is located in Agra, Uttar Pradesh, India, which is only 200 Km from New Delhi, the capital of India.
         It was built by Mughal emperor Shah Jahan in memory of his third wife, Mumtaz Mahal.
         The Taj Mahal is widely recognized as "the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage"
