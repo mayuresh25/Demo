@@ -49,10 +49,10 @@
 
 <div class="india">
 <h2><font color="red"> 3.)Sun Temple(Konark,Odisha)</font></h2>
-<img src="odisha.jpg" alt="Mountain View" style="width:100px;height:100px;">
-<img src="odisha2.jpg" alt="Mountain View" style="width:100px;height:100px;">
-<img src="odisha3.jpg" alt="Mountain View" style="width:100px;height:100px;">
-<img src="odisha4.jpg" alt="Mountain View" style="width:100px;height:100px;">
+ <img src="odisha.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="odisha2.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="odisha3.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="odisha4.jpg" alt="Mountain View" style="width:100px;height:100px;">
 <p>This 13th century Sun Temple of Konark, Odisha is an architectural marvel as it is considered one of the grandest temples of India. Although the main structure of the temple has been collapsed around 150 years ago, yet the surviving structure represents the full glory.
     It is believed that the temple was built by king Narasimhadeva I of Eastern Ganga Dynasty around AD 1250.
     It resembles a colossal chariot, with 24 wheels, pulled by seven straining horses, and has a three-tiered pyramidal roof topped off by a fine spire.
