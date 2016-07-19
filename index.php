@@ -98,6 +98,17 @@
     It is one of the five largest Harappan sites and most prominent archaeological sites in India belonging to the Indus Valley Civilization. It is also considered as grandest of cities of its time.
     The site was occupied from c.2650 BCE, declining slowly after about 2100 BCE. It was briefly abandoned and reoccupied until c.1450 BCE.</p></div>
 
+<div class="india">
+    <h2><font color="red"> 7.)Hampi(Bellary,Karnataka)</font></h2>
+    <img src="hampi.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="hampi2.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="hampi3.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="hampi4.jpg" alt="Mountain View" style="width:100px;height:100px;">
+<p>Hampi is a village in northern Karnataka, India. It is located within the ruins of the city of Vijayanagara, the former capital of the Vijayanagara Empire.
+    - According to the mythological epic Ramayana, Lord Rama and his brother had visited this region, while looking for Rama's wife, Sita. They visited this region to seek help from Vail and Sugriv (2 monkey brothers), who ruled the region. Due to such mythological references, this place was declared a World Heritage Site.
+    - The name Hampi was derived from the word 'Pampa', which is the old name of Tungabhadra river, on whose Southern banks the city is built.
+    - The ruins and monuments are spread over an area of 26 square kilometres.
+    - The first historical record of settlement in Hampi dates back to 1 CE.</p></div>
 
 </body>
 </html>
