@@ -74,6 +74,18 @@
     Earlier, there were about 85 Hindu temples at Khajuraho, which degenerated due to the ravages of the nature. There are only about 22 Hindu temples left now.
     It is wrongly believed that Khajuraho temples are filled with erotic sculpture.
     Erotic scenes represent a relatively small part of the carvings, but sensuous eroticism prevails in all the sculptures.</p></div>
+    
+    <div class="india">
+    <h2><font color="red"> 5.)Nalanda University(Nalanda,Bihar)</font></h2>
+    <img src="nalanda.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="nalanda2.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="nalanda3.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="nalanda4.jpg" alt="Mountain View" style="width:100px;height:100px;">
+<p>Located around 100 kilometers from Patna, the capital of Bihar; Nalanda was a thriving university from 500 AD to 1300 AD until, it was destroyed by foreign invaders.
+    It had 300 lecture halls, laboratories, libraries and an observatory.
+    Chinese travelers recorded that, 10,000 students were taught by 200 professors in Nalanda.
+    It was founded during Gupta age.
+    The excavated ruins are known to extend over an area of about 150,000 square foot meters. It is believed that 90% of the remains at Nalanda University still remain unexcavated.</p></div>
 
 
 
