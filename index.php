@@ -34,7 +34,7 @@
 
 <div class="india">
     <h2><font color="red"> 2.)Golden Temple(Amritsar,Punab)</font></h2>
-    <img src="img/amritsar.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="amritsar.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <img src="amritsar2.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <img src="amritsar3.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <img src="amritsar4.jpg" alt="Mountain View" style="width:100px;height:100px;">
