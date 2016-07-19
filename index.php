@@ -34,6 +34,10 @@
 
 <div class="india">
     <h2><font color="red"> 2.)Golden Temple(Amritsar,Punab)</font></h2>
+    <img src="img/taj-mahal.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="taj-mahal2.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="taj-mahal3.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="taj-mahal4.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <p>Most sacred place of worship for the Sikhs, located in Amritsar, Punjab.
         Also called Harmandir Sahib or Court of the Lord.
         The foundation of the Golden Temple was laid down by a Muslim saint Mian Mir.
