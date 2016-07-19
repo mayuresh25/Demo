@@ -8,40 +8,34 @@
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
-       <link rel="stylesheet" href="demo.css" type="text/css">
+    <link rel="stylesheet" href="demo.css" type="text/css">
 
 </head>
 <body>
 
-<h1>Responsive Web Design Demo</h1>
-<h2>Resize this responsive page!</h2>
+<h1>Wonders Of India</h1>
+<h2>India is a vast South Asian country with diverse terrain – from Himalayan peaks to Indian Ocean coastline – and history reaching back 5 millennia. In the north, Mughal Empire landmarks include Delhi’s Red Fort complex, massive Jama Masjid mosque and Agra’s iconic Taj Mahal mausoleum. Pilgrims bathe in the Ganges in Varanasi, and Rishikesh is a yoga center and base for Himalayan trekking.</h2>
 
-<div class="city">
-    <h2>London</h2>
-    <img src="london.jpg" alt="Mountain View" style="width:100px;height:100px;">
-    <p>London is the capital of England.</p>
-    <p>It is the most populoity in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+
+<div class="india">
+    <h2>Taj Mahal</h2>
+    <img src="img/taj-mahal.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="img/taj-mahal2.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="img/taj-mahal3.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="img/taj-mahal4.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <p>Taj Mahal tops the list of Seven Wonders of the World.The White marble mausoleum is located in Agra, Uttar Pradesh, India, which is only 200 Km from New Delhi, the capital of India.
+        It was built by Mughal emperor Shah Jahan in memory of his third wife, Mumtaz Mahal.
+        The Taj Mahal is widely recognized as "the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage"
+        Around 20,000 people worked day and night for twenty two years to complete construction of the Taj Mahal.
+        The Taj Mahal was constructed using the best quality marble from Rajasthan, Tibet, Afghanistan and China.
+        At different times of the day the Taj Mahal appears to be in a different colour. Some believe that these changing colours depict the changing moods of a woman. </p>
 </div>
 
-<div class="city">
-    <h2>Paris</h2>
-    <img src="paris.jpg" alt="Mountain View" style="width:100px;height:100px;">
-    <p>Paris is the capital of France.</p>
-    <p>The Paris area is one of the largest population centers in Europe, with more than 12 million inhabitants.</p>
-</div>
 
-<div class="city">
-    <h2>Tokyo</h2>
-    <img src="Tokyo.jpg" alt="Mountain View" style="width:100px;height:100px;">
-    <p>Tokyo is the capital of Japan.</p>
-    <p>It is the center of the Greater Tokyo Area, and the most populous metropolitan area in the world.</p>
-</div>
 
-<div class="city">
-    <h2>New York</h2>
-    <p>The City of New York is the most populous city in the United States.</p>
-    <p>New York is an important center for international diplomacy and has been described as the cultural and financial capital of the world.</p>
-</div>
+
+
+
 
 </body>
 </html>
