@@ -60,6 +60,20 @@
     The temple is a brilliant chronicle in stone, with impressive sculptures.
     Every aspect of life is represented here, and the erotic imagery, depicts the sublimation of human love manifested in countless forms.
     Scenes from court, civic life and war are also done with great precision.</p></div>
+    
+    <div class="india">
+    <h2><font color="red"> 4.)Khajuraho(Khajuraho,Chhatarpur,Madhya Pradesh)</font></h2>
+    <img src="khajuraho.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="khajuraho2.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="khajuraho3.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="khajuraho4.jpg" alt="Mountain View" style="width:100px;height:100px;">
+<p>Khajuraho is the symbol of rich cultural heritage of India.
+    It has a number of Jain and Hindu temples and is famous for erotic sculpture.
+    The name Khajuraho is derived from the Hindi word 'khajur', which means 'date palm'.
+    It was built during the reign of Chandel Empire, between 950 and 1050 AD.
+    Earlier, there were about 85 Hindu temples at Khajuraho, which degenerated due to the ravages of the nature. There are only about 22 Hindu temples left now.
+    It is wrongly believed that Khajuraho temples are filled with erotic sculpture.
+    Erotic scenes represent a relatively small part of the carvings, but sensuous eroticism prevails in all the sculptures.</p></div>
 
 
 
