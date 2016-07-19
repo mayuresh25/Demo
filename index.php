@@ -100,7 +100,7 @@
 
 <div class="india">
     <h2><font color="red"> 7.)Hampi(Bellary,Karnataka)</font></h2>
-    <img src="hampi.jpg" alt="Mountain View" style="width:100px;height:100px;">
+    <img src="hampi.JPG" alt="Mountain View" style="width:100px;height:100px;">
     <img src="hampi2.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <img src="hampi3.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <img src="hampi4.jpg" alt="Mountain View" style="width:100px;height:100px;">
