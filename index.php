@@ -19,12 +19,12 @@
 
 
 <div class="india">
-    <h2>Taj Mahal</h2>
+    <h2>1.)Taj Mahal</h2>
     <img src="taj-mahal.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <img src="taj-mahal2.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <img src="taj-mahal3.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <img src="taj-mahal4.jpg" alt="Mountain View" style="width:100px;height:100px;">
-    <p>1.)Taj Mahal tops the list of Seven Wonders of the World.The White marble mausoleum is located in Agra, Uttar Pradesh, India, which is only 200 Km from New Delhi, the capital of India.
+    <p>Taj Mahal tops the list of Seven Wonders of the World.The White marble mausoleum is located in Agra, Uttar Pradesh, India, which is only 200 Km from New Delhi, the capital of India.
         It was built by Mughal emperor Shah Jahan in memory of his third wife, Mumtaz Mahal.
         The Taj Mahal is widely recognized as "the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage"
         Around 20,000 people worked day and night for twenty two years to complete construction of the Taj Mahal.
