@@ -13,7 +13,7 @@
 </head>
 <body>
 
-<h1><center>Wonders Of India</center></h1>
+<h1><center>Seven Wonders Of India</center></h1>
 <h2>India is a vast South Asian country with diverse terrain.
 <br>From Himalayan peaks to Indian Ocean coastline – and history reaching back 5 millennia. In the north, Mughal Empire landmarks include Delhi’s Red Fort complex, massive Jama Masjid mosque and Agra’s iconic Taj Mahal mausoleum. Pilgrims bathe in the Ganges in Varanasi, and Rishikesh is a yoga center and base for Himalayan trekking.</h2>
 
