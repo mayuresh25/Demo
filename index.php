@@ -14,7 +14,7 @@
 <body>
 
 <h1><center>Wonders Of India</center></h1>
-<h2>India is avast South Asian country with diverse terrain.
+<h2>India is a vast South Asian country with diverse terrain.
 <br>From Himalayan peaks to Indian Ocean coastline – and history reaching back 5 millennia. In the north, Mughal Empire landmarks include Delhi’s Red Fort complex, massive Jama Masjid mosque and Agra’s iconic Taj Mahal mausoleum. Pilgrims bathe in the Ganges in Varanasi, and Rishikesh is a yoga center and base for Himalayan trekking.</h2>
 
 
@@ -24,7 +24,7 @@
     <img src="taj-mahal2.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <img src="taj-mahal3.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <img src="taj-mahal4.jpg" alt="Mountain View" style="width:100px;height:100px;">
-    <p>Taj Mahal tops the list of Seven Wonders of the World.The White marble mausoleum is located in Agra, Uttar Pradesh, India, which is only 200 Km from New Delhi, the capital of India.
+    <p>1.)Taj Mahal tops the list of Seven Wonders of the World.The White marble mausoleum is located in Agra, Uttar Pradesh, India, which is only 200 Km from New Delhi, the capital of India.
         It was built by Mughal emperor Shah Jahan in memory of his third wife, Mumtaz Mahal.
         The Taj Mahal is widely recognized as "the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage"
         Around 20,000 people worked day and night for twenty two years to complete construction of the Taj Mahal.
