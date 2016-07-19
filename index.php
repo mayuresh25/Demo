@@ -20,6 +20,7 @@
 
 <div class="india">
     <h2><font color="red"> 1.)Taj Mahal</font></h2>
+    <a href="http://www.tajmahaL.com/html/">
     <img src="taj-mahal.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <img src="taj-mahal2.jpg" alt="Mountain View" style="width:100px;height:100px;">
     <img src="taj-mahal3.jpg" alt="Mountain View" style="width:100px;height:100px;">
